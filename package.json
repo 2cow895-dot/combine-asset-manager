@@ -13,9 +13,6 @@
   "description": "Google Sheets 기반 다중 사용자 자산 통합 및 잉여금 배분 시스템",
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.0",
-    "@types/node": "^25.2.2",
-    "@types/react": "^19.2.13",
-    "@types/uuid": "^10.0.0",
     "autoprefixer": "^10.4.24",
     "axios": "^1.13.5",
     "google-auth-library": "^10.5.0",
@@ -30,8 +27,13 @@
     "recharts": "^3.7.0",
     "shadcn-ui": "^0.9.5",
     "tailwindcss": "^4.1.18",
-    "typescript": "^5.9.3",
     "uuid": "^13.0.0",
     "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.2",
+    "@types/react": "^19.2.13",
+    "@types/uuid": "^10.0.0",
+    "typescript": "^5.9.3"
   }
 }
