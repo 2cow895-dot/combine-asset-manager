@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "Google Sheets 기반 다중 사용자 자산 통합 및 잉여금 배분 시스템",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
     "@types/node": "^25.2.2",
     "@types/react": "^19.2.13",
     "@types/uuid": "^10.0.0",
